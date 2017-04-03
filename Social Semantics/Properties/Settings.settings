@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Social_Semantics.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FB_appId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">112069712469758</Value>
+    </Setting>
+    <Setting Name="FB_appSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">74b14723e5be3639f851a2751f791ea4</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
