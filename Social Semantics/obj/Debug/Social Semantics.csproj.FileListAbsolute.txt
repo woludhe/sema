@@ -1,0 +1,590 @@
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.pdb
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.bootstrap.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.jQuery.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.MSAjax.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.WebForms.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Web.Infrastructure.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Owin.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Providers.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\WebGrease.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.pdb
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.pdb
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.csprojResolveAssemblyReference.cache
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AjaxControlToolkit.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.pdb
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.pdb
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.xml
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx64.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx86.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.AWT.WinForms.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Beans.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Charsets.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Cldrdata.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Corba.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Core.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Jdbc.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Localedata.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Management.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Media.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Misc.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Naming.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Nashorn.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Remoting.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Security.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.SwingAWT.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Text.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Tools.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Util.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.API.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Bind.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Crypto.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Parse.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Transform.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.WebServices.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.XPath.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.JNI.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\stanford-postagger-3.5.2.dll
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.pdb
+J:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.pdb
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx64.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx86.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.dll.config
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.pdb
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AjaxControlToolkit.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.jQuery.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.AWT.WinForms.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Beans.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Charsets.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Cldrdata.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Corba.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Core.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Jdbc.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Localedata.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Management.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Media.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Misc.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Naming.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Nashorn.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Remoting.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Security.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.SwingAWT.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Text.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Tools.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Util.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.API.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Bind.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Crypto.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Parse.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Transform.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.WebServices.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.XPath.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.JNI.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Web.Infrastructure.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Owin.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\stanford-postagger-3.5.2.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Providers.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\WebGrease.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.pdb
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.pdb
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.pdb
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.pdb
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.pdb
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.dll
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.pdb
+G:\Liverpool Online\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.csprojResolveAssemblyReference.cache
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx64.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx86.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.pdb
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AjaxControlToolkit.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.bootstrap.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.jQuery.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.AWT.WinForms.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Beans.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Charsets.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Cldrdata.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Corba.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Core.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Jdbc.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Localedata.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Management.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Media.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Misc.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Naming.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Nashorn.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Remoting.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Security.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Text.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Tools.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Util.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.API.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Crypto.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Transform.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.WebServices.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.XPath.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.JNI.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.WebForms.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Web.Infrastructure.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Owin.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\stanford-postagger-3.5.2.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Providers.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\WebGrease.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.pdb
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.pdb
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.pdb
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.pdb
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.pdb
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.dll
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.pdb
+D:\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.csprojResolveAssemblyReference.cache
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.csprojResolveAssemblyReference.cache
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx64.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx86.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.dll.config
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AjaxControlToolkit.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.jQuery.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.AWT.WinForms.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Beans.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Charsets.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Cldrdata.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Corba.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Core.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Jdbc.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Localedata.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Management.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Media.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Misc.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Naming.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Nashorn.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Remoting.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Security.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.SwingAWT.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Text.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Tools.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Util.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.API.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Bind.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Crypto.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Parse.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Transform.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.WebServices.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.XPath.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.JNI.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Web.Infrastructure.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Owin.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\stanford-postagger-3.5.2.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Providers.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\WebGrease.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.pdb
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx64.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hunspellx86.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Social Semantics.pdb
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AjaxControlToolkit.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.bootstrap.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.jQuery.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.AWT.WinForms.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Beans.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Charsets.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Cldrdata.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Corba.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Core.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Jdbc.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Localedata.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Management.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Media.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Misc.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Naming.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Nashorn.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Remoting.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Security.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.SwingAWT.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Text.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Tools.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Util.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.API.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Bind.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Crypto.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Parse.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Transform.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.WebServices.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.XPath.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\IKVM.Runtime.JNI.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.MSAjax.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.WebForms.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Web.Infrastructure.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Owin.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\stanford-postagger-3.5.2.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Providers.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\WebGrease.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Facebook.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.pdb
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.pdb
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Newtonsoft.Json.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\NHunspell.pdb
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\System.Web.Optimization.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\TweetSharp.pdb
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Antlr3.Runtime.pdb
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.csprojResolveAssemblyReference.cache
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.dll
+J:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS\Social Semantics\Social Semantics\obj\Debug\Social Semantics.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\obj\Debug\Social Semantics.csprojResolveAssemblyReference.cache
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\obj\Debug\Social Semantics.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\obj\Debug\Social Semantics.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Hunspellx64.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Hunspellx86.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Social Semantics.dll.config
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Social Semantics.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Social Semantics.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\AjaxControlToolkit.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Antlr3.Runtime.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\AspNet.ScriptManager.jQuery.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\EntityFramework.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Facebook.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Hammock.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.AWT.WinForms.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Beans.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Charsets.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Cldrdata.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Corba.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Core.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Jdbc.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Localedata.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Media.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Misc.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Naming.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Nashorn.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Remoting.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Security.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.SwingAWT.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Text.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Tools.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.Util.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.API.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Bind.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Crypto.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Parse.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.Transform.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.WebServices.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.OpenJDK.XML.XPath.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.Runtime.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\IKVM.Runtime.JNI.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Web.Infrastructure.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Newtonsoft.Json.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\NHunspell.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Owin.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\stanford-postagger-3.5.2.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\System.Web.Optimization.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\System.Web.Providers.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\TweetSharp.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\WebGrease.dll
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Facebook.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Hammock.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Hammock.ClientProfile.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Jwt.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Newtonsoft.Json.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\NHunspell.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\System.Web.Optimization.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\TweetSharp.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Antlr3.Runtime.pdb
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\EntityFramework.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\EntityFramework.SqlServer.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Google.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Liverpool Online\LIVERPOOL CLASSES\DISS PROJECT - SEMANTICS_ORIGINAL\Social Semantics\Social Semantics\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
