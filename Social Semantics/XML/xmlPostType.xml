@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PostType>
+  <post id="11">Group created</post>
+   <post id="12">Event created</post>
+   <post id="46">Status update</post>
+   <post id="56">Post on wall from another user</post>
+   <post id="66">Note created</post>
+   <post id="80">Link posted</post>
+   <post id="128">Video posted</post>
+   <post id="247">Photos posted</post>
+   <post id="237">App story</post>
+   <post id="257">Comment created</post>
+   <post id="272">App story</post>
+   <post id="285">Checkin to a place</post>
+   <post id="308">Post in Group</post>
+</PostType>
